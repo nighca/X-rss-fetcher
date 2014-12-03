@@ -1,0 +1,31 @@
+{
+  "name": "x-rss-fetcher",
+  "version": "0.0.1",
+  "description": "RSS fetch based on X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nighca/rss-fetcher.git"
+  },
+  "keywords": [
+    "rss",
+    "fetch"
+  ],
+  "author": "nighca@live.cn",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/nighca/rss-fetcher/issues"
+  },
+  "homepage": "https://github.com/nighca/rss-fetcher",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "feedparser": "^0.19.2",
+    "qiniu": "^6.1.6",
+    "request": "^2.49.0",
+    "transliteration": "0.0.7",
+    "x-client": "^1.0.0"
+  }
+}
