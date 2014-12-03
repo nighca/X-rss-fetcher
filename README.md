@@ -1,4 +1,4 @@
-rss-fetcher
+X-rss-fetcher
 ===========
 
-RSS fetch &amp; store
+RSS fetch based on [X](https://github.com/nighca/X) & [X-client](https://github.com/nighca/X-client).
