@@ -4,6 +4,10 @@ task.on('fetch-channel', function(channel){
 	console.log('channel fetched', channel.title);
 });
 
+task.on('new-channel', function(channel){
+	console.log('new channel', channel.title);
+});
+
 task.on('save-channel', function(channel){
 	console.log('channel saved', channel.title);
 });
