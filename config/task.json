@@ -1,4 +1,5 @@
 {
 	"interval": 600000,
-	"retry": 1
+	"retry": 1,
+	"storage": "qiniu"
 }
